@@ -1,0 +1,1 @@
+2018/04/30 11:21:09 [error] 5551#5551: *1 directory index of "/home/elan/stepik/uploads/" is forbidden, client: 127.0.0.1, server: , request: "GET /uploads/ HTTP/1.1", host: "127.0.0.1"
